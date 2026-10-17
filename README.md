@@ -6,3 +6,5 @@ ______
 * [Python Module 02](https://github.com/DevPapito/Python-Module-02)
 * [Python Module 03](https://github.com/DevPapito/Python-Module-03)
 * [Python Module 04](https://github.com/DevPapito/Python-Module-04)
+* [Python Module 05 bis](https://github.com/DevPapito/Python-Module-05-bis)
+* [Python Module 06 bis](https://github.com/DevPapito/Python-Module-06-bis)
